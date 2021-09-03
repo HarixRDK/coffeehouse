@@ -53,7 +53,7 @@
 
 ### 下载3D场景地图
 
-地图上传后更新本地址
+
 
 ### 下载RDK
 [下载地址](https://harix.cloudminds.com/#/index/community/download)
