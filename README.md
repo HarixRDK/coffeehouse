@@ -9,11 +9,13 @@
 <img src="./docs/images/harix1.png" width="700"> 
 
 基于HARIX OS海睿，我们为开发者提供了一套基于数字孪生的云端机器人开放服务平台和开发工具包：HARIX RDK（Robot Development Kit）。HARIX RDK包括应用行为蓝图编辑器、动作舞蹈编辑器、场景地图工具等；为机器人训练、评估、学习提供仿真平台，包括虚拟现实环境的模拟、机器人实体建模仿真、事件驱动的动态情境模拟等；为服务机器人在大数量群体、大规模场景、持续性条件下的智能、高效、快速评估和进化训练提供支持，可以在全虚拟环境下实现多个智能体大规模AI模拟、试验和智能自主训练学习，并建立完善的评价标准和评估体系。
+
 <img src="./docs/images/harix2.png" width="700"> 
 
 ### 多模态的人形机器人
 
 具有34个柔性关节执行器的Cloud Ginger XR-1云端服务机器人，结合各种视觉、听觉、触觉等传感器，通过4G/5G模组连接云端大脑，在HARIX OS海睿分布式操作系统处理下完成各种复杂场景的服务。
+
 <img src="./docs/images/ginger.jpg" width="700"> 
 
 ### 基于技能集开发多模态AI能力
@@ -34,6 +36,7 @@
 
 
 比如：通过蓝图程序编辑器实现机器人“移动抓取”的技能
+
 <img src="./docs/images/skillset1.jpg" width="700"> 
 
 <img src="./docs/images/skillset2.jpg" width="700"> 
@@ -55,4 +58,4 @@
 
 [安装RDK](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
 
-[vpn安装](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
+[vpn安装文档](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
