@@ -53,7 +53,10 @@
 
 ### 下载3D场景地图
 
-地图上传后更新本地址
+百度网盘下载地址链接：https://pan.baidu.com/s/1Cl6ZmOixZEfOpkv7rvmZmA 
+
+提取码：hari 
+
 
 ### 下载RDK
 [下载地址](https://harix.cloudminds.com/#/index/community/download)
