@@ -1,6 +1,6 @@
 #  CoffeeHouse: A Simulation Environment to train Robots in CoffeeHouse Realistic Interactive Scene
 
- <img src="./docs/images/coffeehouse.gif" width="700"> 
+ <img src="./docs/images/coffeehouse2.gif" width="700"> 
 
 
 ### HARIX OS及RDK背景
@@ -40,8 +40,12 @@
 ### 使用文档
 
 [第一个RDK应用程序](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
+[蓝图节点API](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
+[基于RDK使用yolov5算法识别水果](https://www.kdocs.cn/l/cdETcLB2veEi)
 
 ### 下载3D场景地图
 
 ### 下载RDK
-
+[下载地址](https://harix.cloudminds.com/#/index/community/download)
+[安装RDK](https://harix.cloudminds.com/#/rdk/doc?value=1-3)
+[vpn安装]（https://harix.cloudminds.com/#/rdk/doc?value=1-3）
