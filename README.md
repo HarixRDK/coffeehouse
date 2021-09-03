@@ -1,6 +1,6 @@
 #  CoffeeHouse: A Simulation Environment to train Robots in CoffeeHouse Realistic Interactive Scene
 
- <img src="./docs/images/coffeehouse.gif" width="500"> 
+ <img src="./docs/images/coffeehouse.gif" width="700"> 
 
 
 ### HARIX OS及RDK背景
