@@ -13,7 +13,7 @@
 ### 多模态的人形机器人
 
 具有34个柔性关节执行器的Cloud Ginger XR-1云端服务机器人，结合各种视觉、听觉、触觉等传感器，通过4G/5G模组连接云端大脑，在HARIX OS海睿分布式操作系统处理下完成各种复杂场景的服务。
-<img src="./docs/images/ginger.jpg" width="500"> 
+<img src="./docs/images/ginger.jpg" width="700"> 
 
 ### 基于技能集开发多模态AI能力
 机器人在复杂场景中与目标物进行交互操作，是智能服务机器人区别于监控摄像头、智能音响、AGV小车、工业机械臂等人工智能应用最不同之处。如何通过动态规划和强化学习算法，实现不同机器人多模态AI能力的时序排列，非常具有挑战性。HARIX OS海睿平台，为开发者提供开源、开放的技能集（SkillSet），降低机器人多模态编程的难度。
@@ -33,9 +33,9 @@
 
 
 比如：通过蓝图程序编辑器实现机器人“移动抓取”的技能
-<img src="./docs/images/skillset1.jpg" width="500"> 
-<img src="./docs/images/skillset2.jpg" width="500"> 
-<img src="./docs/images/skillset3.jpg" width="500"> 
+<img src="./docs/images/skillset1.jpg" width="700"> 
+<img src="./docs/images/skillset2.jpg" width="700"> 
+<img src="./docs/images/skillset3.jpg" width="700"> 
 
 ### 使用文档
 
